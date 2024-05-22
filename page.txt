@@ -2,5 +2,5 @@ la mejor apgina del mundo
 
 modulo menu
 
-modulo plato
+modulo platos
 modulo gaston 2
